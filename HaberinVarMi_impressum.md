@@ -1,42 +1,40 @@
-# HABERİN VAR MI ? MEDYA GRUBU ( KÜNYE )
+# Haberin var mı? Medya grubu (Künye)
 
-## İMTİYAZ SAHİBİ
-Haberin Var Mı ?
+## Imtiyaz Sahibi
+Haberin var mı?
 
-## HABER MERKEZİ
+## Haber Merkezi̇
 ### Genel Yayın Yönetmeni
 Abdul Samet KIZIL
 
 ### Haber Koordinatörü
 Fatin KARANFİL
-### Editörler: 
-Abdul Kadir KIZIL
-Fehmi Mete ARISOY
-Abdullah BESLİ
-Mert KARANFİL
-Yakup ÖNAL
-Yunus BİLGİC
+### Editörler
+- Abdul Kadir KIZIL
+- Fehmi Mete ARISOY
+- Abdullah BESLİ
+- Mert KARANFİL
+- Yakup ÖNAL
+- Yunus BİLGİC
 
 ### Teknoloji Editörü
 Yasin KARANFİL
 
-## SPOR DEPARTMANI
+## Spor Departmani
 
 ### Spor Editörleri
-Alican KELES
-Onur KARA
+- Alican KELES
+- Onur KARA
 
-## VİDEO DEPARTMANI
+## Video Departmani
 ### Editör
 Musab SİMSEK
 
-## OPERASYON
-Yusuf BİLGİC
-Mert KARANFİL
+## Operasyon
+- Yusuf BİLGİC
+- Mert KARANFİL
 
-------------
-
-## İLETİŞİM
-**Telefon:** +90 531 257 96 07
-**E-mail:** infohaberinvarmi@gmail.com
-**Bayburt-Merkez**
+## Iletişim
+- **Telefon:** +90 531 257 96 07
+- **E-mail:** infohaberinvarmi@gmail.com
+- **Bayburt-Merkez**
